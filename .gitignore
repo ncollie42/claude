@@ -1,0 +1,21 @@
+# Odin build artifacts
+space_invaders_3d
+*.exe
+*.bin
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.dSYM/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
